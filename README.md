@@ -1,8 +1,6 @@
 
 
-# Laravel QR Code Generator & Dashboard
-
-Un outil simple en Laravel pour générer des QR Codes personnalisés et suivre leurs statistiques de scan.
+# Documentation
 
 ---
 
